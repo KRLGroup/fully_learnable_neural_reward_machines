@@ -1,1 +1,1 @@
-# fully_learnable_neural_reward_machines
+# Fully learnable neural reward machines
